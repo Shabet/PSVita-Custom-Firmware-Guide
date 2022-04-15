@@ -14,7 +14,7 @@ https://www.playstation.com/en-us/support/hardware/psvita/system-software/
 
 o game list 조회
 https://www.pushsquare.com/psvita/games/browse
-https://www.metacritic.com/browse/games/score/metascore/all/psvita
+https://www.metacritic.com/browse/games/score/metascore/all/vita/filtered?view=detailed
 
 o NPS 브라우저
 https://psndl.net/packages
