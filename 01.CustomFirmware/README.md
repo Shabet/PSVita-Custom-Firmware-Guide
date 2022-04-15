@@ -1,0 +1,6 @@
+# 커펌 설치
+
+TODO
+
+___
+.END OF CUSTOMFIRMWARE
